@@ -1,6 +1,5 @@
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1331.h>
-#include <SPI.h>
 
 // Pin definitions
 #define scl 15
