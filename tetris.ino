@@ -1458,12 +1458,7 @@ void the_full_game(){
 void setup() {  
   display.begin();
   display.fillScreen(0);
-
-  pinMode(left, INPUT);
   
   the_full_game();
 }
 
- 
-void loop(){
-}
